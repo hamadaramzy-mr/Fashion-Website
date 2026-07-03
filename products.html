@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="products.css">
+    <title>products</title>
+</head>
+<body class="showcart">
+  <div class="container">
+    <header>
+        <div class="title">PRODUCT LIST</div>
+        <div class="filters">
+    <input type="text" id="filter-name" placeholder="Search by product name">
+    <select id="filter-category">
+  <option value="">All Categories</option>
+  <option value="Top">Top</option>
+  <option value="Bottom">Bottom</option>
+  <option value="Shoes">Shoes</option>
+  <option value="Sun-glasses">Sun-glasses</option>
+</select>
+  </div>
+
+        <div class="icon-cart"><svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 4h1.5L9 16m0 0h8m-8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-8.5-3h9.25L19 7H7.312"/>
+</svg>
+<span>0</span>
+</div>
+    </header>
+    <div class="listproducts">
+        <div class="item">
+            <img src="images/women clothe1.jpg" alt="">
+            <h2>name</h2>
+            <div class="price">200$</div>
+            <button class="addcart">
+                Add To Cart
+            </button>
+        </div>
+    </div>
+  </div>
+<div class="cartTab">
+    <h1>Shopping Cart</h1>
+    <div class="listcart">
+<div class="item">
+    <div class="image">
+        <img src="images/women clothe1.jpg" alt="">
+    </div>
+<div class="name">
+    Name
+</div>
+<div class="totalprice">$200</div>
+<div class="quantity">
+    <span class="minus"><</span>
+    <span>1</span>
+    <span class="plus">></span>
+</div>
+</div>
+    </div>
+    <div class="btn">
+        <button class="close">Close</button>
+        <button class="checkout" id="checkout">Check out</button>
+    </div>
+</div>
+ <script src="products.js"></script>
+</body>
+</html>

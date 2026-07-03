@@ -1,0 +1,124 @@
+[
+    {
+    "id": 1,
+"name":"Shirt",
+"price":200,
+"image":"images/women clothe1.jpg",
+"category": "Top"
+
+    },
+      {
+    "id": 2,
+"name":"Grey Blazer",
+"price":300,
+"image":"images/women clothe 2.jpg",
+"category": "Top"
+
+    },
+      {
+    "id": 3,
+"name":"Blover",
+"price":250,
+"image":"images/women clothe 3.jpg",
+"category": "Top"
+
+    },
+      {
+    "id": 4,
+"name":"Yellow Skirt",
+"price":150,
+"image":"images/women clothe 4.jpg",
+"category": "Bottom"
+
+    },
+      {
+    "id": 5,
+"name":"Pants",
+"price":100,
+"image":"images/women clothe 5.jpg",
+"category": "Bottom"
+
+    },
+      {
+    "id": 6,
+"name":"Blue Jeans",
+"price":200,
+"image":"images/women clothe 6.jpg",
+"category": "Bottom"
+
+    },
+    {
+    "id": 7,
+"name":"Black Jacket",
+"price":350,
+"image":"images/women clothe 7.jpg",
+"category": "Top"
+
+    },
+    {
+     "id": 8,
+"name":"Grey Jeans",
+"price":475,
+"image":"images/jeans.jpg",
+"category": "Bottom"
+    },
+     {
+     "id": 9,
+"name":"Bamber Jacket",
+"price":365,
+"image":"images/jacket.jpg",
+"category": "Top"
+    },
+        {
+    "id": 10,
+"name":"Sweet Shirt",
+"price":175,
+"image":"images/women clothe 8.jpg",
+"category": "Top"
+
+    },
+     {
+    "id": 11,
+"name":"High Heel",
+"price":175,
+"image":"images/women clothe 9.jpg",
+"category": "Shoes"
+
+    },
+     {
+    "id": 12,
+"name":"Brown boot",
+"price":450,
+"image":"images/women clothe 10.jpg",
+"category": "Shoes"
+
+    },
+     {
+    "id": 13,
+"name":"Boot with heels",
+"price":375,
+"image":"images/women clothe 11.jpg",
+"category": "Shoes"
+    },
+      {
+    "id": 14,
+"name":"Black Sun-glasses",
+"price":105,
+"image":"images/women sunglasses 3.jpg",
+"category": "Sun-glasses"
+    },
+      {
+    "id": 15,
+"name":"Rounded Sun-glasses",
+"price":85,
+"image":"images/women sunglasses2.jpg",
+"category": "Sun-glasses"
+    },
+      {
+    "id": 16,
+"name":"Brown Sun-glasses",
+"price":75,
+"image":"images/womens-sunglasses.jpg",
+"category": "Sun-glasses"
+    }
+]
